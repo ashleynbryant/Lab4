@@ -1,0 +1,166 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="AddHouse.css">
+    <link rel="stylesheet" type="text/css" href="text.css">
+    <meta charset="utf-8" />
+    <link href='https://fonts.googleapis.com/css?family=Asap' rel='stylesheet'>
+    
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title></title>
+</head>
+<body>
+
+    <!-- Navigation -->
+    <div class="topnav">
+        <a href="AddHouse.html">Add Listing</a>
+        <a href="#contact">Modify Listing</a>
+
+    </div>              <!-- Navigation END-->
+
+
+    <!-- Add listing Body (taupe) -->
+    <div class="addlisting">
+
+        <!-- Add listing form (white) -->
+        <div class="addlistingform">
+            <h1>Add Listing</h1>
+            <form name="addListing" onsubmit="myFunction()">
+
+                <div class="row">
+                    <div class="col-25">
+                        <label for="hometype">Home Type</label>
+                    </div>
+                    <div class="col-75">
+                        <select id="hometype" name="hometype">
+                            <option value="">Choose Home Type</option>
+                            <option value="SFH">Single Family Home</option>
+                            <option value="townhouse">Town House</option>
+                            <option value="Condo">Condo</option>
+                            <option value="Rental">Rental</option>
+                        </select>
+                    </div>
+                </div>
+
+
+
+                <div class="row">
+                    <div class="col-25">
+                        <label for="address">Address</label>
+                    </div>
+                    <div class="col-75">
+                        <input type="text" id="address" name="address" placeholder="123 Sesame St." required>
+                    </div>
+                </div>
+
+
+
+                <div class="row">
+                    <div class="col-25">
+                        <label for="Price">Price</label> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$
+                    </div>
+                    <div class="col-75">
+                        <input type="text" id="address" name="address" placeholder="100000" required>
+                    </div>
+                </div>
+
+
+                <div class="row">
+                    <div class="col-25">
+                        <label for="size">Size</label>
+                    </div>
+                    <div class="col-75">
+                        <input type="text" id="size" name="size" placeholder="2000" required> sq. ft
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-25">
+                        <label for="bedrooms">Bedrooms</label>
+                    </div>
+                    <div class="col-75">
+                        <select id="bedrooms" name="bedrooms">
+                            <option value="one">1</option>
+                            <option value="two">2</option>
+                            <option value="three">3</option>
+                            <option value="four">4</option>
+                            <option value="five">5</option>
+                        </select>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-25">
+                        <label for="bathrooms">Bathrooms</label>
+                    </div>
+                    <div class="col-75">
+                        <select id="bathrooms" name="bathrooms">
+                            <option value="one">1</option>
+                            <option value="two">2</option>
+                            <option value="three">3</option>
+                            <option value="four">4</option>
+                            <option value="five">5</option>
+                        </select>
+                    </div>
+                </div>
+
+
+                <div class="row">
+                    <div class="col-25">
+                        <label for="yearbuilt">Year Built</label>
+                    </div>
+                    <div class="col-75">
+                        <input type="text" id="yearbuilt" name="yearbuilt" placeholder="2019" required>
+                    </div>
+                </div>
+
+
+                <div class="row">
+                    <div class="col-25">
+                        <label for="imgurl">Image URL</label>
+                    </div>
+                    <div class="col-75">
+                        <input type="text" id="imageurl" name="imageurl" placeholder="https://www.MyImage.com/Image" required>.jpg
+                    </div> 
+                </div>
+
+
+                <div class="row">
+                    <div class="col-25">
+                        <label for="Description">Description</label>
+                    </div>
+                    <div class="col-75">
+                        <textarea id="description" name="description" placeholder="Home sweet home..." style="height:200px" required></textarea>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <br />
+                    <div class="col-58">
+                        <input type="submit" onclick ="AddHouse" value="Submit">
+                    </div>
+                </div>
+
+
+            </form>
+        </div>        <!-- Add listing form (white)  END-->
+
+
+    </div>          <!-- Add listing Body (taupe) END-->
+
+    <div class="footer">
+
+
+    </div>
+
+
+
+</body>
+
+
+
+
+
+</html>

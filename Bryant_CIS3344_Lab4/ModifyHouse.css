@@ -1,0 +1,127 @@
+﻿body {
+    background-color: #93867F;
+    margin: 0;
+}
+
+.footer {
+    background-color: #5F1A37;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 1%;
+    padding-right: 1%;
+    color: white;
+}
+
+.addlisting {
+    background-color: white;
+    margin-left: 33.33%;
+    margin-right: 33.33%;
+    margin-top: 5%;
+    padding-top: 2%;
+    padding-right: 2%;
+    padding-bottom: 2%;
+    margin-bottom: 5%;
+    padding-left: 2%;
+}
+
+
+.addlistingform {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    font-family: Asap;
+}
+
+input[type=text], select, textarea {
+    width: 75%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: vertical;
+    font-family: Asap;
+}
+
+label {
+    padding: 12px 12px 12px 0;
+    display: inline-block;
+}
+
+input[type=submit] {
+    background-color: #5F1A37;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    float: right;
+}
+
+    input[type=submit]:hover {
+        background-color: #45a049;
+    }
+
+
+
+.col-25 {
+    float: left;
+    width: 25%;
+    margin-top: 6px;
+}
+
+.col-58 {
+    float: left;
+    width: 58%;
+    margin-top: 6px;
+}
+
+.col-75 {
+    float: left;
+    width: 75%;
+    margin-top: 6px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+
+
+
+.topnav {
+    overflow: hidden;
+    background-color: #5F1A37;
+    color: white;
+}
+
+    .topnav a {
+        float: left;
+        color: white;
+        background-color: #5F1A37;
+        text-align: center;
+        padding: 24px 36px;
+        text-decoration: none;
+        font-size: 24px;
+        font-family: Asap;
+    }
+
+        .topnav a:hover {
+            background-color: white;
+            color: #5F1A37;
+        }
+
+        .topnav a.active {
+            background-color: white;
+            color: #5F1A37;
+        }
+
+
+
+@media screen and (max-width: 600px) {
+    .col-25, .col-75, input[type=submit] {
+        width: 100%;
+        margin-top: 0;
+    }
+}

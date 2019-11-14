@@ -1,0 +1,14 @@
+C:\Users\Rocket Man\source\repos\Bryant_CIS3344_Lab4\Bryant_CIS3344_Lab4\bin\Debug\netcoreapp2.1\Bryant_CIS3344_Lab4.deps.json
+C:\Users\Rocket Man\source\repos\Bryant_CIS3344_Lab4\Bryant_CIS3344_Lab4\bin\Debug\netcoreapp2.1\Bryant_CIS3344_Lab4.runtimeconfig.json
+C:\Users\Rocket Man\source\repos\Bryant_CIS3344_Lab4\Bryant_CIS3344_Lab4\bin\Debug\netcoreapp2.1\Bryant_CIS3344_Lab4.runtimeconfig.dev.json
+C:\Users\Rocket Man\source\repos\Bryant_CIS3344_Lab4\Bryant_CIS3344_Lab4\bin\Debug\netcoreapp2.1\Bryant_CIS3344_Lab4.dll
+C:\Users\Rocket Man\source\repos\Bryant_CIS3344_Lab4\Bryant_CIS3344_Lab4\bin\Debug\netcoreapp2.1\Bryant_CIS3344_Lab4.pdb
+C:\Users\Rocket Man\source\repos\Bryant_CIS3344_Lab4\Bryant_CIS3344_Lab4\obj\Debug\netcoreapp2.1\Bryant_CIS3344_Lab4.csprojAssemblyReference.cache
+C:\Users\Rocket Man\source\repos\Bryant_CIS3344_Lab4\Bryant_CIS3344_Lab4\obj\Debug\netcoreapp2.1\Bryant_CIS3344_Lab4.csproj.CoreCompileInputs.cache
+C:\Users\Rocket Man\source\repos\Bryant_CIS3344_Lab4\Bryant_CIS3344_Lab4\obj\Debug\netcoreapp2.1\Bryant_CIS3344_Lab4.RazorAssemblyInfo.cache
+C:\Users\Rocket Man\source\repos\Bryant_CIS3344_Lab4\Bryant_CIS3344_Lab4\obj\Debug\netcoreapp2.1\Bryant_CIS3344_Lab4.RazorAssemblyInfo.cs
+C:\Users\Rocket Man\source\repos\Bryant_CIS3344_Lab4\Bryant_CIS3344_Lab4\obj\Debug\netcoreapp2.1\Bryant_CIS3344_Lab4.AssemblyInfoInputs.cache
+C:\Users\Rocket Man\source\repos\Bryant_CIS3344_Lab4\Bryant_CIS3344_Lab4\obj\Debug\netcoreapp2.1\Bryant_CIS3344_Lab4.AssemblyInfo.cs
+C:\Users\Rocket Man\source\repos\Bryant_CIS3344_Lab4\Bryant_CIS3344_Lab4\obj\Debug\netcoreapp2.1\Bryant_CIS3344_Lab4.RazorTargetAssemblyInfo.cache
+C:\Users\Rocket Man\source\repos\Bryant_CIS3344_Lab4\Bryant_CIS3344_Lab4\obj\Debug\netcoreapp2.1\Bryant_CIS3344_Lab4.dll
+C:\Users\Rocket Man\source\repos\Bryant_CIS3344_Lab4\Bryant_CIS3344_Lab4\obj\Debug\netcoreapp2.1\Bryant_CIS3344_Lab4.pdb
